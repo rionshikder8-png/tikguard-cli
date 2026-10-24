@@ -1,0 +1,13 @@
+[project]
+name = "tikguard-cli"
+version = "1.0.0"
+description = "Local, privacy-first TikTok safety helper CLI for Termux"
+requires-python = ">=3.8"
+license = { text = "MIT" }
+dependencies = []
+
+[project.scripts]
+tikguard = "tikguard.cli:main"
+
+[tool.setuptools]
+packages = ["tikguard"]

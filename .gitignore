@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.db
+*.sqlite
+*.sqlite3
+.tikguard/
+exports/
+case_*.json
+.env
+*.egg-info/
+.venv/

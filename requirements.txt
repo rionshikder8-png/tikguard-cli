@@ -1,0 +1,2 @@
+# TikGuard core uses only the Python standard library.
+# Optional (not required): rich
